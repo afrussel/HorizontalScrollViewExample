@@ -9,4 +9,4 @@ Author: [Ahmed Faisal](https://github.com/afrussel)
 
 
 
-![screenshot](https://github.com/afrussel/CustomStatusBarWithGradientColor/blob/master/status_bar_gradient_color.png "screenshot")
+![screenshot](https://github.com/afrussel/HorizontalScrollViewExample/blob/master/example_like_play_store.png "screenshot")
